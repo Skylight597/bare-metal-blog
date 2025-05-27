@@ -1,0 +1,16 @@
+body {
+	background-color:#CAC4CE;
+	color: #00100B;
+
+}
+
+.header {
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+
+}
+
+.menu {
+
+}
